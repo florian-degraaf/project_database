@@ -1,0 +1,1 @@
+select destination, count(destination) as 'Number of trips' from trips group by destination order by 'Number of trips';

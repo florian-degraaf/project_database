@@ -1,0 +1,1 @@
+select count(clients.id_c) as 'number_of_clients' from clients;

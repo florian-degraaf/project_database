@@ -1,0 +1,1 @@
+select id_p, first_name_p, last_name_p, dob_p from personnel order by dob_p;
